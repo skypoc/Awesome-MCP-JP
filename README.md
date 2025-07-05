@@ -391,11 +391,11 @@ MCPサーバーのスイッチをオンにする
 <tr>
 <td>
 
-**[DuckDuckGo](https://github.com/nickclyde/duckduckgo-mcp-server)**
+**[Fetch](https://mcp.so/server/fetch/modelcontextprotocol)**
 
 </td>
-<td>プライバシー重視の検索エンジン。コンテンツ取得・解析機能付き</td>
-<td align="center">🔍 検索</td>
+<td>ウェブコンテンツの取得と変換のために設計されたMCPサーバーであり、LLMがウェブページからコンテンツを取得し、HTMLをマークダウンに変換してより簡単に利用できるように処理することを可能にします。</td>
+<td align="center">🌐 ウェブサイトとのインタラクション</td>
 </tr>
 
 <tr>
@@ -437,6 +437,7 @@ MCPサーバーのスイッチをオンにする
 <td>永続的セマンティックグラフ構築。Obsidian.md統合</td>
 <td align="center">🧠 メモリ</td>
 </tr>
+
 
 </table>
 
@@ -739,7 +740,7 @@ MCPサーバーのスイッチをオンにする
 |--------------------------------------------------------------|--------------------------------------------------------------|
 | [Airbnb MCP Server](https://github.com/openbnb-org/mcp-server-airbnb) | Airbnbの検索と物件詳細を取得するツールを提供。                                   |
 | [jagan-shanmugam/open-streetmap-mcp](https://github.com/jagan-shanmugam/open-streetmap-mcp) | 位置サービスと地理空間データを持つOpenStreetMap MCPサーバー。                      |
-| [Google Map MCP](https://github.com/cablate/mcp-google-map)  | 近くの場所を検索するためのMCPサーバー、IPベースの位置検出を含む。                          |
+| [Google Map MCP](https://github.com/cablate/mcp-google-map)  | Google mcpを呼び出す。                          |
 | [QGIS MCP](https://github.com/jjsantos01/qgis_mcp)           | MCPを介してQGIS DesktopをClaude AIに接続。プロンプト支援のプロジェクト作成、レイヤーの読み込み、コードの実行などを実現。 |
 
 ### その他
