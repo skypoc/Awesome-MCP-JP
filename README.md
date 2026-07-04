@@ -732,6 +732,7 @@ MCPサーバーのスイッチをオンにする
 | [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) | VirusTotal APIをクエリするためのMCPサーバー。URLをスキャンし、ファイルハッシュを分析し、IPアドレスレポートを取得するツールを提供。 |
 | [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp) | Binary Ninjaのプラグイン、MCPサーバー、ブリッジで、Binary NinjaとMCPクライアントをシームレスに統合し、バイナリ分析と逆向きエンジニアリングを自動化。 |
 | [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | IDA ProのMCPサーバーで、AIアシスタントがバイナリ分析を実行できる。このプラグインは逆コンパイル、逆アセンブルを実現し、マルウェア分析レポートを自動生成することを許可します。 |
+| [Darkmoon](https://github.com/ASCIT31/Dark-Moon) | Markdownプレイブックとエージェント推論で80以上の攻撃ツールを制御する自律型AIペネトレーションテストプラットフォーム。ウェブ、クラウド、Active Directory、Kubernetes、API、内部ネットワークに対応し、検出ごとに証拠を記録します。 |
 | [securityfortech/secops-mcp](https://github.com/securityfortech/secops-mcp) | 人気のあるオープンソースツールを単一のMCPインターフェースに統合した統合セキュリティテストツールボックス。AIエージェントを接続し、ペネトレーションテスト、バグバウンティ、脅威ハンティングなどのタスクを実行。 |
 | [Whois MCP](https://github.com/bharathvaj-ganesan/whois-mcp) | ドメイン、IP、ASN、TLDに対してwhoisクエリを実行。                              |
 
