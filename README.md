@@ -593,6 +593,7 @@ MCPサーバーのスイッチをオンにする
 
 | 名称                                                           | 説明                                                           |
 |--------------------------------------------------------------|--------------------------------------------------------------|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Apple Silicon macOS / Node.js 24 向けのローカル決済 CLI・stdio MCP。送金準備、状態・レシート確認を提供。直接送金/EVM の承認は前景端末で行い、Solana x402 の一部は所有者が設定したポリシー内で実行可能。実資金を扱うため権限・接続先・上限の確認が必要。 |
 | [AlphaVantage](https://github.com/calvernaz/alphavantage)    | AlphaVantageの株式市場データAPIサーバー。                                 |
 | [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) | Coinmarket API統合、暗号通貨のリストと価格を取得。                             |
 | [Bankless Onchain](https://github.com/bankless/onchain-mcp)  | ERC20トークン、取引履歴、スマートコントラクトの状態など、オンチェーンデータを照会します。(Bankless公式)  |
