@@ -766,6 +766,12 @@ MCPサーバーのスイッチをオンにする
 ---
 
 
+### 🏛 公共データ / オープンデータ
+
+| 名称 | 説明 |
+|------|------|
+| [米連邦政府契約 MCP（SAM.gov + Grants.gov）](https://apify.com/publicrecords/govcon-opportunity-feed) | SAM.gov と Grants.gov の米連邦の新着契約・補助金公告を 1 つのフィードで、ソースリンク付き。Apify 上の従量課金 MCP（無料枠あり）。 |
+
 ## 📝 貢献について
 
 このプロジェクトへの貢献を歓迎します！
