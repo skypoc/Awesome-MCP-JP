@@ -751,6 +751,7 @@ MCPサーバーのスイッチをオンにする
 | [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) | AIがGraphQLサーバーをクエリできるようにする。                                  |
 | [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli)  | MCPサーバーをテストするための別のCLIツール。                                    |
 | [evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) | Claudeから直接HuggingFace Spacesを使用。オープンソースの画像生成、チャット、視覚タスクなどをサポート。画像、音声、テキストのアップロード/ダウンロード。 |
+| [GeminiGeorge22/agent-flex-arena-mcp](https://github.com/GeminiGeorge22/agent-flex-arena-mcp) | ホスト型MCPアリーナ「Agent Arena」。Colonel Blotto、Neon Laser Tag、Spiked 8-Ball Pool、無料の Human-vs-Bot 戦略ホールを提供し、対局ごとに共有可能なリプレイカードを生成。ライブツール35。`npx skills add GeminiGeorge22/agent-flex-arena-mcp` |
 | [IBM wxflows](https://github.com/IBM/wxflows/tree/main/examples/mcp/javascript) | IBM公式ツールプラットフォーム、任意のデータソースのための構築、テスト、デプロイツール。                |
 | [julien040/anyquery](https://github.com/julien040/anyquery)  | SQLクエリを介して40以上のアプリに接続し、PG/MySQL/SQLiteデータベースを接続。ローカル優先、プライバシー重視。 |
 | [magarcia/mcp-server-giphy](https://github.com/magarcia/mcp-server-giphy) | Giphy APIを介してGiphyの膨大なライブラリからGIFを検索および取得。                    |
